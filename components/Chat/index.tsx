@@ -1,7 +1,6 @@
 import {
   Flex,
   HStack,
-  Icon,
   IconButton,
   Input,
   Stat,
