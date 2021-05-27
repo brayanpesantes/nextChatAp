@@ -1,7 +1,7 @@
 import React from "react";
 import { chakra } from "@chakra-ui/react";
 
-const ChakraLogo = (props) => {
+const ChakraLogo = (props: any) => {
   return (
     <chakra.svg
       viewBox="0 0 257 257"
